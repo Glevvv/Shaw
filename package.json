@@ -1,6 +1,6 @@
 {
   "name": "stremio-shawbrothers-addon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stremio catalog addon for Shaw Brothers / Celestial action films",
   "main": "index.js",
   "scripts": {

@@ -1,15 +1,9 @@
-# Shaw Brothers Action Catalog (Stremio Addon)
+# Shaw Brothers Action Catalog (Render Fix)
 
-A simple Stremio addon that serves a catalog of Shaw Brothers / Celestial action & martial-arts films.
+**Fix:** Avoid JS parameter destructuring in template strings that got mangled during generation.
+This version uses `args` objects, then reads `args.id`, etc.
 
-## Run locally
-```bash
-npm install
-npm start
-# open http://localhost:7000/manifest.json
-```
-
-## Deploy to Render
+## Render Settings
 - Build command: `npm install`
 - Start command: `npm start`
-- Render sets `PORT` automatically; the addon listens on it.
+- Port: use `PORT` from environment (handled in code)
