@@ -1,7 +1,7 @@
 {
-  "name": "stremio-shawbrothers-addon-expanded",
-  "version": "2.0.0",
-  "description": "Expanded Shaw Brothers action catalog for Stremio",
+  "name": "stremio-shawbrothers-addon-noblanks",
+  "version": "2.1.0",
+  "description": "Shaw Brothers catalog that only shows IMDb-verified entries (no blanks).",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

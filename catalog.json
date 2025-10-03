@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "name": "Temple of the Red Lotus",
-      "year": 1965
-    },
-    {
-      "name": "The Twin Swords",
-      "year": 1965
-    },
-    {
       "name": "Come Drink with Me",
       "year": 1966,
       "imdb": "tt0059079"
@@ -24,29 +16,9 @@
       "imdb": "tt0063105"
     },
     {
-      "name": "The Sword and the Lute",
-      "year": 1967
-    },
-    {
-      "name": "The Flying Dagger",
-      "year": 1969
-    },
-    {
       "name": "Have Sword, Will Travel",
       "year": 1969,
       "imdb": "tt0064067"
-    },
-    {
-      "name": "The Invincible Fist",
-      "year": 1969
-    },
-    {
-      "name": "Return of the One-Armed Swordsman",
-      "year": 1969
-    },
-    {
-      "name": "Vengeance!",
-      "year": 1970
     },
     {
       "name": "The Chinese Boxer",
@@ -54,78 +26,14 @@
       "imdb": "tt0065999"
     },
     {
-      "name": "The Heroic Ones",
-      "year": 1970
-    },
-    {
-      "name": "The Duel",
-      "year": 1971
-    },
-    {
-      "name": "The New One-Armed Swordsman",
-      "year": 1971
-    },
-    {
       "name": "King Boxer (Five Fingers of Death)",
       "year": 1972,
       "imdb": "tt0070800"
     },
     {
-      "name": "Boxer from Shantung",
+      "name": "The Boxer from Shantung",
       "year": 1972,
       "imdb": "tt0068310"
-    },
-    {
-      "name": "Man of Iron",
-      "year": 1972
-    },
-    {
-      "name": "Angry Guest",
-      "year": 1972
-    },
-    {
-      "name": "The Black Enforcer",
-      "year": 1972
-    },
-    {
-      "name": "The Devil's Mirror",
-      "year": 1972
-    },
-    {
-      "name": "The Four Riders",
-      "year": 1972
-    },
-    {
-      "name": "Thunderbolt Fist",
-      "year": 1972
-    },
-    {
-      "name": "Finger of Doom",
-      "year": 1972
-    },
-    {
-      "name": "The 14 Amazons",
-      "year": 1972
-    },
-    {
-      "name": "The Imperial Swordsman",
-      "year": 1972
-    },
-    {
-      "name": "Intimate Confessions of a Chinese Courtesan",
-      "year": 1972
-    },
-    {
-      "name": "The Lizard",
-      "year": 1972
-    },
-    {
-      "name": "The Deadly Knives",
-      "year": 1972
-    },
-    {
-      "name": "The Water Margin",
-      "year": 1972
     },
     {
       "name": "The Fate of Lee Khan",
@@ -133,25 +41,9 @@
       "imdb": "tt0070942"
     },
     {
-      "name": "The Lady Professional",
-      "year": 1973
-    },
-    {
-      "name": "The Iron Bodyguard",
-      "year": 1973
-    },
-    {
-      "name": "The Blood Brothers",
-      "year": 1973
-    },
-    {
       "name": "Heroes Two",
       "year": 1974,
       "imdb": "tt0070051"
-    },
-    {
-      "name": "Men from the Monastery",
-      "year": 1974
     },
     {
       "name": "Five Shaolin Masters",
@@ -164,34 +56,6 @@
       "imdb": "tt0071619"
     },
     {
-      "name": "The Savage Five",
-      "year": 1974
-    },
-    {
-      "name": "The Tea House",
-      "year": 1974
-    },
-    {
-      "name": "Big Brother Cheng",
-      "year": 1975
-    },
-    {
-      "name": "All Men Are Brothers",
-      "year": 1975
-    },
-    {
-      "name": "The Criminals",
-      "year": 1976
-    },
-    {
-      "name": "The Shaolin Avengers",
-      "year": 1976
-    },
-    {
-      "name": "Challenge of the Masters",
-      "year": 1976
-    },
-    {
       "name": "The Magic Blade",
       "year": 1976,
       "imdb": "tt0075329"
@@ -202,33 +66,9 @@
       "imdb": "tt0074745"
     },
     {
-      "name": "Web of Death",
-      "year": 1976
-    },
-    {
       "name": "The Dragon Missile",
       "year": 1976,
       "imdb": "tt0074521"
-    },
-    {
-      "name": "7-Man Army",
-      "year": 1976
-    },
-    {
-      "name": "Shaolin Temple",
-      "year": 1976
-    },
-    {
-      "name": "The Last Tempest",
-      "year": 1976
-    },
-    {
-      "name": "The Sentimental Swordsman",
-      "year": 1977
-    },
-    {
-      "name": "The Battle Wizard",
-      "year": 1977
     },
     {
       "name": "The Brave Archer",
@@ -236,59 +76,9 @@
       "imdb": "tt0075855"
     },
     {
-      "name": "Death Duel",
-      "year": 1977
-    },
-    {
-      "name": "The Chinatown Kid",
-      "year": 1977
-    },
-    {
-      "name": "The Brave Archer 2",
-      "year": 1978
-    },
-    {
-      "name": "Legend of the Bat",
-      "year": 1978
-    },
-    {
-      "name": "Heaven Sword and Dragon Sabre",
-      "year": 1978
-    },
-    {
-      "name": "Heaven Sword and Dragon Sabre Part II",
-      "year": 1978
-    },
-    {
-      "name": "The Proud Youth",
-      "year": 1978
-    },
-    {
-      "name": "Soul of the Sword",
-      "year": 1978
-    },
-    {
-      "name": "The Avenging Eagle",
-      "year": 1978,
-      "imdb": "tt0077868"
-    },
-    {
       "name": "Five Deadly Venoms",
       "year": 1978,
       "imdb": "tt0077559"
-    },
-    {
-      "name": "Invincible Shaolin",
-      "year": 1978
-    },
-    {
-      "name": "Crippled Avengers",
-      "year": 1978,
-      "imdb": "tt0077292"
-    },
-    {
-      "name": "Heroes of the East",
-      "year": 1978
     },
     {
       "name": "The 36th Chamber of Shaolin",
@@ -296,20 +86,14 @@
       "imdb": "tt0078243"
     },
     {
-      "name": "Shaolin Mantis",
-      "year": 1978
+      "name": "Crippled Avengers",
+      "year": 1978,
+      "imdb": "tt0077292"
     },
     {
-      "name": "Shaolin Handlock",
-      "year": 1978
-    },
-    {
-      "name": "Swordsman and the Enchantress",
-      "year": 1978
-    },
-    {
-      "name": "Clan of Amazons",
-      "year": 1978
+      "name": "The Avenging Eagle",
+      "year": 1978,
+      "imdb": "tt0077868"
     },
     {
       "name": "The Kid with the Golden Arm",
@@ -317,49 +101,9 @@
       "imdb": "tt0079372"
     },
     {
-      "name": "Magnificent Ruffians",
-      "year": 1979
-    },
-    {
-      "name": "Shaolin Rescuers",
-      "year": 1979
-    },
-    {
-      "name": "The Daredevils",
-      "year": 1979
-    },
-    {
-      "name": "The Deadly Breaking Sword",
-      "year": 1979
-    },
-    {
       "name": "Flag of Iron",
       "year": 1980,
       "imdb": "tt0080721"
-    },
-    {
-      "name": "The Rebel Intruders",
-      "year": 1980
-    },
-    {
-      "name": "Two Champions of Shaolin",
-      "year": 1980
-    },
-    {
-      "name": "Ten Tigers of Kwangtung",
-      "year": 1980
-    },
-    {
-      "name": "Return to the 36th Chamber",
-      "year": 1980
-    },
-    {
-      "name": "Killer Constable",
-      "year": 1980
-    },
-    {
-      "name": "Heroes Shed No Tears",
-      "year": 1980
     },
     {
       "name": "Masked Avengers",
@@ -367,45 +111,9 @@
       "imdb": "tt0082717"
     },
     {
-      "name": "Martial Club",
-      "year": 1981
-    },
-    {
-      "name": "My Young Auntie",
-      "year": 1981
-    },
-    {
-      "name": "The Emperor and His Brother",
-      "year": 1981
-    },
-    {
-      "name": "The Sword Stained with Royal Blood",
-      "year": 1981
-    },
-    {
-      "name": "Return of the Sentimental Swordsman",
-      "year": 1981
-    },
-    {
-      "name": "The Duel of the Century",
-      "year": 1981
-    },
-    {
-      "name": "Mercenaries from Hong Kong",
-      "year": 1982
-    },
-    {
       "name": "Legendary Weapons of China",
       "year": 1982,
       "imdb": "tt0084203"
-    },
-    {
-      "name": "Cat vs. Rat",
-      "year": 1982
-    },
-    {
-      "name": "Perils of the Sentimental Swordsman",
-      "year": 1982
     },
     {
       "name": "Five Element Ninjas",
@@ -413,66 +121,14 @@
       "imdb": "tt0083950"
     },
     {
-      "name": "Shaolin Prince",
-      "year": 1982
-    },
-    {
-      "name": "Shaolin Abbot",
-      "year": 1982
-    },
-    {
-      "name": "House of Traps",
-      "year": 1982
-    },
-    {
-      "name": "Ode to Gallantry",
-      "year": 1982
-    },
-    {
-      "name": "Clan Feuds",
-      "year": 1982
-    },
-    {
-      "name": "Demon of the Lute",
-      "year": 1983
-    },
-    {
-      "name": "Holy Flame of the Martial World",
-      "year": 1983
-    },
-    {
-      "name": "Bastard Swordsman",
-      "year": 1983
-    },
-    {
-      "name": "Return of the Bastard Swordsman",
-      "year": 1984
-    },
-    {
-      "name": "Secret Service of the Imperial Court",
-      "year": 1984
-    },
-    {
       "name": "Eight Diagram Pole Fighter",
       "year": 1984,
       "imdb": "tt0086128"
     },
     {
-      "name": "The Lady Is the Boss",
-      "year": 1983
-    },
-    {
-      "name": "Shaolin Intruders",
-      "year": 1983
-    },
-    {
       "name": "Hong Kong Godfather",
       "year": 1985,
       "imdb": "tt0091171"
-    },
-    {
-      "name": "Disciples of the 36th Chamber",
-      "year": 1985
     }
   ]
 }
